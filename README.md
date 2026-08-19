@@ -94,7 +94,7 @@ The dashboard provides an interactive view of:
 
 ## 📈 Key Takeaway
 
-This project helped me understand how hospitality data can be transformed into business insights by combining **data analysis, KPI tracking, visualization, and business context**.
+This project helped me understand how hospitality data can be transformed into business insights by combining **data analysis, KPI tracking, visualization, and business context**
 
 Rather than only visualizing the data, the dashboard focuses on answering:
 
