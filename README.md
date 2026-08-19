@@ -105,3 +105,24 @@ Rather than only visualizing the data, the dashboard focuses on answering:
 ## 👨‍💻 About the Project
 
 This project is part of my **Data Analytics & Business Intelligence portfolio**, where I work on real-world business scenarios to strengthen my skills in data analysis, visualization, and decision-oriented reporting.
+
+
+# 👨‍💻 Author
+
+## **Abhishek Singh Chauhan**
+
+### 🌟 Aspiring Data Analyst
+
+**Skills**
+
+`SQL` • `Excel` • `Python` • `Pandas` • `Data Analysis` • `Dashboard Development` • `Business Intelligence`
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project helpful, don't forget to Star ⭐ the repository!
+
+**Thanks for visiting! 😊**
+
+
